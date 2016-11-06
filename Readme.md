@@ -13,7 +13,7 @@
 
 ## 2空格缩进
 
-使用2个空格而不是 tab 来进行代码缩进，同时绝对不要混用空格和 tab 。
+使用2个空格而不是 tab 来进行代码缩进，同时绝对不要混用空格和 tab 。l
 
 Sublime Text 2 设置(perfernces > Settings - User)：
 
@@ -21,6 +21,7 @@ Sublime Text 2 设置(perfernces > Settings - User)：
   "tab_size": 2,
   "translate_tabs_to_spaces": true
 ```
+不过有些文档编辑器可以设置tab为空格，如果使用java 可是设置table为4个空格，如果是nodejs可以设置为2个空格
 
 ## 换行
 
